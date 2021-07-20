@@ -1,7 +1,3 @@
-One day the A name will update and I will get back to this.
-
-
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Michaellecomte/michaellecomte.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
