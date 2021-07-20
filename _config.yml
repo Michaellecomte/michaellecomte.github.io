@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 title: Hacker theme
 description: Hacker is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-hacker
-=======
 theme: jekyll-theme-cayman
->>>>>>> 918d73fbc63feddf0918d10777a245dd911f2ec5
